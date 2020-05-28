@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/test/include",
+        "${workspaceFolder}/test/build/gflags-build/include/",
+        "${workspaceFolder}/test/build/googletest-src/googletest/include"
+      ],
+      "defines": [],
+      "macFrameworkPath": [],
+      "compilerPath": "/usr/local/bin/gcc-9",
+      "cStandard": "c11",
+      "cppStandard": "gnu++17",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
